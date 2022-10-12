@@ -21,6 +21,7 @@ namespace BubbleShort
             //menerima angka untuk menentukan banyaknya data yang disimpan pada array 
             while (true)
             {
+                Console.WriteLine("Exercise Dzakyyy");
                 Console.Write("Masukkan Banyaknya Elemen Pada Array : ");
                 string s = Console.ReadLine();
                 n = Int32.Parse(s);
